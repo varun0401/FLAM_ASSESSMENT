@@ -16,7 +16,8 @@ export default function EmployeePage() {
 
   return (
     <div className="p-6">
-      <h1 className="text-3xl font-bold mb-2">{user.firstName} {user.lastName}</h1>
+      <img src={user.picture} alt={user.fullName} className="w-16 h-16 rounded-full" />
+      <h1 className="text-3xl font-bold mb-2">{user.fullName}</h1>
       <p className="text-gray-500">{user.email}</p>
       <p className="text-sm mt-1">📞 {user.phone} | 🏠 {user.address.address}</p>
       <p className="text-sm">Department: {user.department} | Age: {user.age}</p>
