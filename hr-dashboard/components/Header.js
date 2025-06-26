@@ -38,7 +38,6 @@ export default function Header() {
       <h1 className="text-xl font-bold">HR Dashboard</h1>
 
       <div className="flex items-center gap-6">
-        {/* Navigation Links */}
         {navLinks.map(link => (
           <Link key={link.href} href={link.href}>
             <span
@@ -51,7 +50,6 @@ export default function Header() {
           </Link>
         ))}
 
-        {/* Theme + Logout grouped together */}
         <div className="flex items-center gap-2">
           <button
             onClick={toggleTheme}
