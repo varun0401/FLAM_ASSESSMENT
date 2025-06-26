@@ -4,7 +4,7 @@ import { useMemo } from 'react';
 const fetcher = (url) => fetch(url).then(res => res.json());
 
 export default function useEmployees() {
-  const { data, error } = useSWR('https://randomuser.me/api/?results=20&nat=us', fetcher);
+const { data, error } = useSWR(`https://randomuser.me/api/?results=20&page=${1}`, fetcher);
   const departments = ['Sales', 'HR', 'Tech', 'Design'];
 
   const employees = useMemo(() => {
