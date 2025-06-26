@@ -28,22 +28,23 @@ A modern HR dashboard built with **Next.js**, **Tailwind CSS**, and **Zustand**.
 ### Dashboard View  
 ![Dashboard Screenshot]
 ![image](https://github.com/user-attachments/assets/c066f347-342a-45fc-82cd-788b3ac55ef1)
-![image](https://github.com/user-attachments/assets/c066f347-342a-45fc-82cd-788b3ac55ef1)
+
 
 
 ### Bookmarks  
 ![Bookmarks Screenshot]
 ![image](https://github.com/user-attachments/assets/d809cb9b-db76-4ecc-a259-c43bb804b22e)
-![image](https://github.com/user-attachments/assets/d809cb9b-db76-4ecc-a259-c43bb804b22e)
+
 
 
 ### Analytics  
 ![Analytics Screenshot]
 ![image](https://github.com/user-attachments/assets/ae53ae8d-4313-4fdd-96e4-86fee0dcc0a2)
-![image](https://github.com/user-attachments/assets/ae53ae8d-4313-4fdd-96e4-86fee0dcc0a2)
+
+----------------------------------------------------------------------------------------------------------------->
 
 ![image](https://github.com/user-attachments/assets/cd1db150-082b-4782-b396-5f6e4255fcec)
-![image](https://github.com/user-attachments/assets/cd1db150-082b-4782-b396-5f6e4255fcec)
+
 
 
 
