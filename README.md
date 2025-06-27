@@ -4,9 +4,7 @@ A modern HR dashboard built with **Next.js**, **Tailwind CSS**, and **Zustand**.
 
 ## 🚀 Live Demo
 
-[🔗 View Live Site](https://flam-assessment.vercel.app)
-
-> Note: Ensure your project root in Vercel is set to `hr-dashboard/` if your Next.js project is inside a subfolder.
+[🔗 View Live Site](https://flam-assessment-7ntt.vercel.app/)
 
 ---
 
