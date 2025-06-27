@@ -24,19 +24,16 @@ A modern HR dashboard built with **Next.js**, **Tailwind CSS**, and **Zustand**.
 ## 📷 Screenshots
 
 ### Dashboard View  
-![Dashboard Screenshot]
 ![image](https://github.com/user-attachments/assets/c066f347-342a-45fc-82cd-788b3ac55ef1)
 
 
 
 ### Bookmarks  
-![Bookmarks Screenshot]
 ![image](https://github.com/user-attachments/assets/d809cb9b-db76-4ecc-a259-c43bb804b22e)
 
 
 
 ### Analytics  
-![Analytics Screenshot]
 ![image](https://github.com/user-attachments/assets/ae53ae8d-4313-4fdd-96e4-86fee0dcc0a2)
 
 ----------------------------------------------------------------------------------------------------------------->
@@ -78,9 +75,9 @@ FLAM_ASSESSMENT/
    ```bash
    git clone https://github.com/varun0401/FLAM_ASSESSMENT.git
    cd FLAM_ASSESSMENT/hr-dashboard
-Install dependencies
 
-cd hr-dashboard
+   
+Install dependencies
 npm install
 npm run dev
 
